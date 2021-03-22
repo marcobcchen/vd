@@ -1,0 +1,244 @@
+{
+  "files": [
+    {
+      "source": "img/bg_1_m.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/bg_1.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/bg_2_m.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/bg_2.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/bg_3_m.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/bg_3.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/bg_building.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/bg_cloud.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/bg_shape.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/icon_differ.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/icon_menu.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_achieve_1.jpg",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_achieve_2.jpg",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_achieve_3.jpg",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_achieve_4.jpg",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_app_hand.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_app.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_apply.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_intro_1.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_intro_2.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_lb_rule_1.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_lb_rule_2.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/img_qrcode.jpg",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/intro_num_1.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/intro_num_2.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/intro_num_3.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_book.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_bubble_m.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_bubble.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_card.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_cloud.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_1_m.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_1.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_2.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_3.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_4_m.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_4.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_hand_1.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_hand_3.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_hand_4.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_dog_head_3.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/kv_star.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/loading_card.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/loading_dog.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/logo_sm.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/logo.png",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/share.jpg",
+      "type": "IMAGE",
+      "size": 270.336
+    },
+    {
+      "source": "img/title_kv.png",
+      "type": "IMAGE",
+      "size": 270.336
+    }
+  ]
+}
