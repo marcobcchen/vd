@@ -413,8 +413,8 @@
 		}
 
 		.kv-bubble-1{
-			width: percentage( 200 / 1200 );
-			left: percentage( 980 / 1200 );
+			width: percentage( 260 / 1200 );
+			left: percentage( 940 / 1200 );
 			top: percentage( 190 / 560 );
 		}
 		
@@ -1026,6 +1026,18 @@
 
 		span{
 			color: $color_minor;
+		}
+
+		.btn-more{
+			@include align-self(flex-start);
+			display: block;
+			font-size: 16px;
+			color: #00cac4;
+			margin-bottom: 8%;
+
+			@media (min-width: $media_md) {
+				font-size: 20px;
+			}
 		}
 	}
 
