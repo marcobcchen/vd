@@ -141,11 +141,11 @@ function setLink(){
     // 桌機&行動裝置連結不同時的設定
 
     if(!isMobile.any()){
-        $(".logo").attr("href","https://richart.tw/TSDIB_RichartWeb/RC00/RC000000?utm_source=eventsite&utm_medium=click&utm_campaign=vd_202001_menubar&utm_content=logo");
+        $(".logo").attr("href","https://richart.tw/TSDIB_RichartWeb/RC00/RC000000?utm_source=richart&utm_medium=eventsite&utm_campaign=richart_q2newvd_202104_web&utm_content=url_evensitecampaigninside");
         // $(".btn-menu-apply").attr("href","https://richart.tw/TSDIB_RichartWeb/RC03/RC030100?utm_source=eventsite&utm_medium=click&utm_campaign=vd_201902_menubar&utm_content=application");
         // $(".btn-apply").attr("href","https://richart.tw/TSDIB_RichartWeb/RC03/RC030100?utm_source=eventsite&utm_medium=click&utm_campaign=vd_201902_FloatingButton&utm_content=application");
     }else{
-        $(".logo").attr("href","https://richart.tw/TSDIB_RichartWeb/RC00/RC000000?utm_source=eventsite&utm_medium=click&utm_campaign=vd_202001_MobileMenubar&utm_content=logo");
+        $(".logo").attr("href","https://richart.tw/TSDIB_RichartWeb/RC00/RC000000?utm_source=richart&utm_medium=eventsite&utm_campaign=richart_q2newvd_202104_mobile&utm_content=url_evensitecampaigninside");
         // $(".btn-menu-apply").attr("href","https://richart.tw/TSDIB_RichartWeb/static/event/Download_page/index.html?utm_source=eventsite&utm_medium=click&utm_campaign=vd_201902_mobilemenubar&utm_content=application");
         // $(".btn-apply").attr("href","https://richart.tw/TSDIB_RichartWeb/static/event/Download_page/index.html?utm_source=eventsite&utm_medium=click&utm_campaign=vd_201902_floatingbutton&utm_content=application");
     }
